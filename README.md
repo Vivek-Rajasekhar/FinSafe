@@ -13,8 +13,7 @@ This is a Java **CLI/console application** (not a web app) with a menu-driven in
 ### Visuals
 No UI layer is implemented in code; this project runs entirely in the terminal.
 
-**Demo Video:** [Watch the demo here](https://drive.google.com/file/d/1E3w5iO5sxr3XvsXke9MjqDdzjytl3iqd/view?usp=sharing)
-
+**Demo Video:** [Watch the demo here](https://drive.google.com/file/d/16F12MGJtDRif84mcXPZHQkpDn0hMVSa2/view?usp=sharing)
 
 ## 2) Key Features
 
