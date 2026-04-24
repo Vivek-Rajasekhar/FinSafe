@@ -13,6 +13,9 @@ This is a Java **CLI/console application** (not a web app) with a menu-driven in
 ### Visuals
 No UI layer is implemented in code; this project runs entirely in the terminal.
 
+**Demo Video:** [Watch the demo here](https://drive.google.com/file/d/1E3w5iO5sxr3XvsXke9MjqDdzjytl3iqd/view?usp=sharing)
+
+
 ## 2) Key Features
 
 - Strict encapsulation with private account state and public behavior methods.
